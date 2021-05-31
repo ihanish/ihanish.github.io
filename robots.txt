@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ihanish.github.io/sitemap.xml
